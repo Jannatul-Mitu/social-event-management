@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Venue Selection",
+        "sub_title": "The perfect setting for your celebration",
+        "description": "City Gardens Banquet Hall is a spacious and elegant venue with indoor and outdoor spaces, offering the ideal ambiance for your special occasion. With a capacity of 200 guests, it's the perfect backdrop for your memorable day.",
+        "image": "https://i.ibb.co/gVXCdhd/venue.jpg",
+        "price": "425"
+    },
+    {
+        "id": "2",
+        "title": "Invitation Card",
+        "sub_title": "An elegant invitation to our special event",
+        "description": "Our invitation card features an exquisite floral theme, inviting you to a sophisticated evening. RSVP by September 30, 2023, and join us in your finest semi-formal attire as we create lasting memories together.",
+        "image": "https://i.ibb.co/gytBPKT/invitation-card.jpg",
+        "price": "761"
+    },
+    {
+        "id": "3",
+        "title": "Entertainment",
+        "sub_title": "An evening filled with fun and excitement",
+        "description": "Prepare for a night of entertainment extravaganza! Harmony Groove Band, DJ Beats, and engaging activities including dancing, a photo booth, and games await you. It's an evening you won't want to miss.",
+        "image": "https://i.ibb.co/FxY7Ltv/entertainment.jpg",
+        "price": "362"
+    },
+    {
+        "id": "4",
+        "title": "Food & Drinks",
+        "sub_title": "Delight your taste buds with exquisite cuisine",
+        "description": "Indulge in a culinary journey with Gourmet Delights Catering. Our carefully crafted menu features delectable appetizers, mouthwatering main courses, decadent desserts, and a selection of wines, signature cocktails, and soft drinks.",
+        "image": "https://i.ibb.co/j6Pj5hf/food.jpg",
+        "price": "987"
+    },
+    {
+        "id": "5",
+        "title": "Photos & Videos",
+        "sub_title": "Capture the memories forever",
+        "description": "Relive the magic! Our team of professional photographers and videographers from SnapShot Studios and CineMagic Productions will ensure every special moment is captured in high definition. It will be available.",
+        "image": "https://i.ibb.co/MGmx9Vn/photo.jpg",
+        "price": "564"
+    },
+    {
+        "id": "6",
+        "title": "Custom Foods",
+        "sub_title": "Savor unique culinary creations",
+        "description": "Elevate your dining experience with a custom-designed cake from Custom Cake Creations, a true work of art. Pair it with our signature cocktail, 'Event Elixir,' crafted exclusively for this special day. It's a culinary journey like no other.",
+        "image": "https://i.ibb.co/5cDQJYf/custom-food.jpg",
+        "price": "897"
+    }
+]
